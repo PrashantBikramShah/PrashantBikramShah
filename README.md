@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI with Healthcare<br>Advance AI in healthcare<br>
+I am an academic and emerging researcher with a keen focus on artificial intelligence and healthcare innovation. I am passionate about advancing AI in healthcare by exploring how intelligent technologies can support better diagnosis, personalised care, improved clinical decision-making, and more efficient health systems. My work reflects a commitment to bridging technology and real-world healthcare impact.
 
 
 # 💻 Tech Stack:
